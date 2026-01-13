@@ -1,9 +1,9 @@
 # 🌦️ KNN Weather Prediction App
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Dhiruuuu81/KNN-Weather-Prediction.git)
 ![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-![GitHub Top Language](https://img.shields.io/github/languages/top/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>)
-![Last Commit](https://img.shields.io/github/last-commit/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>)
+![GitHub Top Language](https://img.shields.io/github/languages/top/Dhiruuuu81/KNN-Weather-Prediction.git)
+![Last Commit](https://img.shields.io/github/last-commit/Dhiruuuu81/KNN-Weather-Prediction.git)
 
 > A weather condition prediction app built with **K-Nearest Neighbors (KNN)** and deployed using **Streamlit**.
 
@@ -65,8 +65,9 @@ Users can input features such as:
 Installation & Setup (Local)
 Clone repository
 
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
-cd <YOUR_REPO_NAME>
+git clone https://github.com/Dhiruuuu81/KNN-Weather-Prediction.git
+
+cd KNN-Weather-Prediction
 
 Requirements
 
